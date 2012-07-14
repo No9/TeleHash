@@ -1,4 +1,6 @@
-var assert = require
+
+
+var assert = require('assert');
 var telehash = require("./telehash");
 
 var abcHash = new telehash.Hash("abc");
